@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Ranu Bhasker]
+# Hi there! 👋 I'm Ranu Bhasker
 
 Welcome to my GitHub profile! I'm passionate about data analysis and visualization, with a focus on deriving actionable insights from complex datasets. 
 
