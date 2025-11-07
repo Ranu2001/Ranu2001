@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm passionate about data analysis and visualization, with a focus on deriving actionable insights from complex datasets. 
 
 ## About Me
-- 💼 Currently working as a Data Analyst at Edtech IT Consulting And HR Services.
+- 💼 Currently working as a Sales & Marketing Consultant at Highbrow Technology Inc.
 - 🎓 Graduated with a degree in Bachelor of Technology in Computer Engineering from I.K Gujral Punjab Technical University
-- 🌟 Skilled in Python, R, SQL, Excel, Tableau, Power BI, Google Looker Studio, Google Tag Manager, Sas Programming, and more
+- 🌟 Skilled in Machine Learning, Gen AI, Ai Agentic,  Python, R, SQL, Excel, Tableau, Power BI, Google Looker Studio, Google Tag Manager, Sas Programming, and more
 - 📈 Experienced in analyzing and interpreting data to drive business decisions
 - 📊 Strong communicator with the ability to present findings in a clear and concise manner
 
